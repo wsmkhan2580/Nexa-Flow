@@ -38,8 +38,7 @@ level2-project/
 
 📦 Setup Instructions
 1. Clone the repository:
-   `bash
-   git clone https://github.com/username/level2-project.git
+   https://github.com/wsmkhan2580/Nexa-Flow.git
    `
 2. Open index.html in your browser.
 3. Explore features like dark mode toggle and responsive layout.
