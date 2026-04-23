@@ -24,8 +24,7 @@ level2-project/
 ├── src/
 │   ├── style.css
 │   └── main.js
-└── assets/
-    └── images/
+
 `
 
 ---
