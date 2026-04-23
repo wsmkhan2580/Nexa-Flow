@@ -48,5 +48,5 @@ level2-project/
 ---
 
 🌐 Deployment
-- Live Demo: Project Link
+- Live Demo: https://nexa-flow-45b1.vercel.app/
 - GitHub Repo: Repository Link (github.com in Bing)
